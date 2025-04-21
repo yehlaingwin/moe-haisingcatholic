@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Staff1/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/SECONDARY 2 PARENT TEACHER CONFERENCE.md
       - Students/SECONDARY 4 & 5 PARENT TEACHER CONFERENCE.md
