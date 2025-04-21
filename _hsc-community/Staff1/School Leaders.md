@@ -5,9 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Staff1
 ---
-
-	<h2>School Leaders</h2>
-	<table style="border-collapse: collapse;">
+<h2>School Leaders</h2>
+	<table>
   <tbody><tr style="background-color: lightblue">
     <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Name</th>
     <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Designation</th>
@@ -34,5 +33,3 @@ third_nav_title: Staff1
     <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;">example@gmail.com</td>
   </tr> 
 </tbody></table>
-  
-	
