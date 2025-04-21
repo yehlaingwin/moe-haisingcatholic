@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Staff1
 ---
-<h2>Subject Heads</h2>
+<img src="/images/Slide5.png">
 <table>
 <tbody>
 			<tr style="background-color: #6031b6">
