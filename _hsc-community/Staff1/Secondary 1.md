@@ -64,7 +64,7 @@ third_nav_title: Staff1
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:lee_wen_han@moe.edu.sg">lee_wen_han@moe.edu.sg</a></td>
 			</tr>
       <tr>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Syahrulnizam Bin Abdul  Rahman (FAJT)</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Syahrulnizam Bin Abdul Rahman (FAJT)</td>
           <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:syahrulnizam_abdul_rahman_a@moe.edu.sg">syahrulnizam_abdul_rahman_a@moe.edu.sg</a></td>
 			</tr>
   			<tr>
@@ -79,4 +79,3 @@ third_nav_title: Staff1
 			
 </tbody>
 </table>
-  
