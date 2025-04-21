@@ -2,17 +2,17 @@ collections:
   hsc-community:
     output: true
     order:
-      - Staff1/.keep
-      - Staff1/School Leaders.md
-      - Staff1/Heads of Department.md
-      - Staff1/Subject Heads.md
-      - Staff1/Lead & Senior Teachers.md
-      - Staff1/Admin & Operations Team.md
-      - Staff1/Secondary 1.md
-      - Staff1/Secondary 2.md
-      - Staff1/Secondary 3.md
-      - Staff1/Secondary 4.md
-      - Staff1/Secondary 5.md
+      - Our Staff/.keep
+      - Our Staff/School Leaders.md
+      - Our Staff/Heads of Department.md
+      - Our Staff/Subject Heads.md
+      - Our Staff/Lead & Senior Teachers.md
+      - Our Staff/Admin & Operations Team.md
+      - Our Staff/Secondary 1.md
+      - Our Staff/Secondary 2.md
+      - Our Staff/Secondary 3.md
+      - Our Staff/Secondary 4.md
+      - Our Staff/Secondary 5.md
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/SECONDARY 2 PARENT TEACHER CONFERENCE.md
       - Students/SECONDARY 4 & 5 PARENT TEACHER CONFERENCE.md
