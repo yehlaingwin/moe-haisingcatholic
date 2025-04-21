@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Staff1
 ---
-![school leader heading](/images/SL.png)
+<img src="/images/SL.png">
 <table style="border-collapse: collapse;">
 		<tbody>
 					<tr style="background-color: #6031b6;">
