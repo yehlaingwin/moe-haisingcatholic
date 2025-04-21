@@ -47,7 +47,7 @@ third_nav_title: Staff1
 			</tr>
       <tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Fazzera Binte Kamal</td>
-          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto: fazzera_kamal@moe.edu.sg"> fazzera_kamal@moe.edu.sg</a></td>
+          <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="mailto:fazzera_kamal@moe.edu.sg">fazzera_kamal@moe.edu.sg</a></td>
 			</tr>
   			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Independence</td>
@@ -79,4 +79,3 @@ third_nav_title: Staff1
 			
 </tbody>
 </table>
-  
