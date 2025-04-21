@@ -8,10 +8,10 @@ third_nav_title: Staff1
 <h2>Secondary 1</h2>
 <table>
 <tbody>
-			<tr style="background-color: lightblue">
-					<th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Class</th>
-					<th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Teacher</th>
-          <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
+			<tr style="background-color: #6031b6">
+					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Class</th>
+					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Teacher</th>
+          <th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
 			</tr>
 			<tr>
 					<td style="color: black; font-size: 16px; vertical-align: middle; border: 1px solid black;padding: 10px 20px;" rowspan="2">Truth</td>
