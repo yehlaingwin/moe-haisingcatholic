@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Staff1
 ---
 <h2>School Leaders</h2>
-<p>hehe</p>
 <table>
 		<tbody>
 					<tr style="background-color: lightblue">
