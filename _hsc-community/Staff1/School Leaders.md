@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Staff1
 ---
 <h2>School Leaders</h2>
-	<table>
+	<table style="border-collapse: collapse;">
   <tbody><tr style="background-color: lightblue">
     <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Name</th>
     <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Designation</th>
@@ -15,21 +15,21 @@ third_nav_title: Staff1
   <tr>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Lim Mui Mui Adeline</td>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Principal</td>
-    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;">example@gmail.com</td>
+    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="yehlaingwinedu@gmail.com">example@gmail.com</a></td>
   </tr>  
     <tr>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Shereen Wong Mingrui</td>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Vice-Principal</td>
-    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;">example@gmail.com</td>
+    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="yehlaingwinedu@gmail.com">example@gmail.com</a></td>
   </tr> 
     <tr>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Tan Phuay Boon Gwen</td>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Vice-Principal</td>
-    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;">example@gmail.com</td>
+    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="yehlaingwinedu@gmail.com">example@gmail.com</a></td>
   </tr> 
     <tr>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Andy Kong Wei foong</td>
     <td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Vice-Principal<br>(Administration)</td>
-    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;">example@gmail.com</td>
+    <td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="yehlaingwinedu@gmail.com">example@gmail.com</a></td>
   </tr> 
 </tbody></table>
