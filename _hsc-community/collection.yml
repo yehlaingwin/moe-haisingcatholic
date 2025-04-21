@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Staff1/Secondary 3.md
       - Staff1/Secondary 2.md
       - Staff1/Secondary 1.md
       - Staff1/.keep
