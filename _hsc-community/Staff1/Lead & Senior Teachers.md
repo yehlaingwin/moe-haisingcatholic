@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Staff1
 ---
-<h2>Subject Heads</h2>
+<h2>Leader &amp; Senior Teachers</h2>
 <table>
 <tbody>
 			<tr style="background-color: lightblue">
