@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Staff1/Lead & Senior Teachers.md
       - Staff1/Subject Heads.md
       - Staff1/Heads of Department.md
       - Staff1/School Leaders.md
