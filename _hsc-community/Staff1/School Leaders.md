@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Staff1
 ---
 <h2>School Leaders</h2>
-	<table style="border-collapse: collapse;">
+	<table>
   <tbody><tr style="background-color: lightblue">
     <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Name</th>
     <th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Designation</th>
