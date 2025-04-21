@@ -8,7 +8,7 @@ third_nav_title: Staff1
 <h2>School Leaders</h2>
 <table style="border-collapse: collapse;">
 		<tbody>
-					<tr style="background-color: lightblue">
+					<tr style="background-color: #F0F0F0">
 							<th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Name</th>
 							<th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Designation</th>
 							<th style="font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
