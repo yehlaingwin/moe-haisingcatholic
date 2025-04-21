@@ -45,7 +45,7 @@ third_nav_title: Staff1
 			</tr> 
 			<tr>
 					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">Sim Hui Teng</td>
-					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">HOD(Mother Tongue Languages)</td>
+					<td style="color: black; font-size: 16px; border: 1px solid black;padding: 10px 20px;">HOD (Mother Tongue Languages)</td>
 					<td style="font-size: 16px; border: 1px solid black;padding: 10px 20px;"><a href="sim_hui_teng@moe.edu.sg">sim_hui_teng@moe.edu.sg</a></td>
 			</tr> 
 			<tr>
