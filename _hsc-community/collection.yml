@@ -2,6 +2,20 @@ collections:
   hsc-community:
     output: true
     order:
+      - Students/.keep
+      - Students/NOTIFCATION ON DEEMED CONSENT.md
+      - Students/SECONDARY 2 PARENT TEACHER CONFERENCE.md
+      - Students/SECONDARY 4 & 5 PARENT TEACHER CONFERENCE.md
+      - Students/STUDENTS TIMETABLE.md
+      - Students/BACK TO SCHOOL.md
+      - Students/SEC ONE ADMISSIONS.md
+      - Students/BOOKLIST AND UNIFORM.md
+      - Students/2025 SECONDARY THREE SUBJECT COMBINATION.md
+      - Students/SCHOOL BASED ASSESSMENT.md
+      - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
+      - Students/FULL SUBJECT BASED BANDING.md
+      - Students/SEXUALITY EDUCATION.md
+      - Students/Release of 2024 GCE O Level Examination Results.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/Heads of Department.md
@@ -13,20 +27,6 @@ collections:
       - Our Staff/Secondary 3.md
       - Our Staff/Secondary 4.md
       - Our Staff/Secondary 5.md
-      - Students/NOTIFCATION ON DEEMED CONSENT.md
-      - Students/SECONDARY 2 PARENT TEACHER CONFERENCE.md
-      - Students/SECONDARY 4 & 5 PARENT TEACHER CONFERENCE.md
-      - Students/.keep
-      - Students/STUDENTS TIMETABLE.md
-      - Students/BACK TO SCHOOL.md
-      - Students/SEC ONE ADMISSIONS.md
-      - Students/BOOKLIST AND UNIFORM.md
-      - Students/2025 SECONDARY THREE SUBJECT COMBINATION.md
-      - Students/SCHOOL BASED ASSESSMENT.md
-      - Students/PERSONALISED DIGITAL LEARNING PROGRAMME.md
-      - Students/FULL SUBJECT BASED BANDING.md
-      - Students/SEXUALITY EDUCATION.md
-      - Students/Release of 2024 GCE O Level Examination Results.md
       - Staff/.keep
       - Staff/Overview.md
       - Staff/Staff.md
