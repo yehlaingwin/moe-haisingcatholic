@@ -2,11 +2,10 @@ collections:
   hsc-community:
     output: true
     order:
-      - Staff/.keep
+      - Staff Old Version Backup/.keep
       - Staff Old Version Backup/Useful Links.md
       - Staff Old Version Backup/Staff.md
       - Staff Old Version Backup/Overview.md
-      - Staff Old Version Backup/.keep
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
       - Students/SECONDARY 2 PARENT TEACHER CONFERENCE.md
@@ -21,5 +20,6 @@ collections:
       - Students/FULL SUBJECT BASED BANDING.md
       - Students/SEXUALITY EDUCATION.md
       - Students/Release of 2024 GCE O Level Examination Results.md
+      - Staff/.keep
       - Alumni.md
       - PSG.md
