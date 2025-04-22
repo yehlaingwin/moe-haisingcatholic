@@ -5,12 +5,11 @@ variant: markdown
 description: ""
 third_nav_title: Staff1
 ---
-<img src="/images/Slide4.png">
 <table>
 <tbody>
 			<tr style="background-color: #6031b6">
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Name</th>
-					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Designation</th>
+					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Heads of Department</th>
 					<th style="color: #FFFFFF; font-size: 20px; border: 1px solid black;padding: 10px 20px; text-align: left;">Email</th>
 			</tr>
 			<tr>
