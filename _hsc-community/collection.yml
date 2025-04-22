@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Staff Old Version Backup/Overview.md
       - Staff Old Version Backup/.keep
       - Students/.keep
       - Students/NOTIFCATION ON DEEMED CONSENT.md
