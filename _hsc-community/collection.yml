@@ -2,6 +2,7 @@ collections:
   hsc-community:
     output: true
     order:
+      - Staff/.keep
       - Staff Old Version Backup/Useful Links.md
       - Staff Old Version Backup/Staff.md
       - Staff Old Version Backup/Overview.md
